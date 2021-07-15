@@ -4,7 +4,7 @@ import '../styles/Footer.css';
 function Footer(props) {
     return (
         <div className="footer">
-            <p>Diyar Kudrat copyright 2021</p>
+            <p>Jeric Hunter copyright 2021</p>
         </div>
     );
 }
