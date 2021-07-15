@@ -1,7 +1,5 @@
 import React from 'react';
 import '../styles/POPOSSpace.css';
-import React from 'react';
-import '../styles/POPOSSpace.css';
 import { Link } from 'react-router-dom';
 
 function POPOSSpace(props) {
